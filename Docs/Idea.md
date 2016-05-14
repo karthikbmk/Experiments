@@ -8,4 +8,5 @@
 
 
 #Update  
-->I think a crude version of this can be done without any AI/ML approach.   Example : Just find the similarity(say Jaccard or Cosine) between questions and display the answer
+->I think a crude version of this can be done without any AI/ML approach.  
+->Example : Just find the similarity(say Jaccard or Cosine) between questions and display the answer
